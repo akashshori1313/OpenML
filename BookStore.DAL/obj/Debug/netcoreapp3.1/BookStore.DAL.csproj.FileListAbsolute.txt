@@ -1,0 +1,16 @@
+C:\Book_Seller\project\BookStore.DAL\bin\Debug\netcoreapp3.1\BookStore.DAL.deps.json
+C:\Book_Seller\project\BookStore.DAL\bin\Debug\netcoreapp3.1\BookStore.DAL.dll
+C:\Book_Seller\project\BookStore.DAL\bin\Debug\netcoreapp3.1\BookStore.DAL.pdb
+C:\Book_Seller\project\BookStore.DAL\bin\Debug\netcoreapp3.1\BookStore.EFModels.dll
+C:\Book_Seller\project\BookStore.DAL\bin\Debug\netcoreapp3.1\BookStore.EFModels.pdb
+C:\Book_Seller\project\BookStore.DAL\obj\Debug\netcoreapp3.1\BookStore.DAL.csprojAssemblyReference.cache
+C:\Book_Seller\project\BookStore.DAL\obj\Debug\netcoreapp3.1\BookStore.DAL.csproj.CoreCompileInputs.cache
+C:\Book_Seller\project\BookStore.DAL\obj\Debug\netcoreapp3.1\BookStore.DAL.AssemblyInfoInputs.cache
+C:\Book_Seller\project\BookStore.DAL\obj\Debug\netcoreapp3.1\BookStore.DAL.AssemblyInfo.cs
+C:\Book_Seller\project\BookStore.DAL\obj\Debug\netcoreapp3.1\BookStore.DAL.csproj.CopyComplete
+C:\Book_Seller\project\BookStore.DAL\obj\Debug\netcoreapp3.1\BookStore.DAL.dll
+C:\Book_Seller\project\BookStore.DAL\obj\Debug\netcoreapp3.1\BookStore.DAL.pdb
+C:\Book_Seller\project\BookStore.DAL\bin\Debug\netcoreapp3.1\BookStore.Interface.dll
+C:\Book_Seller\project\BookStore.DAL\bin\Debug\netcoreapp3.1\BookStore.Models.dll
+C:\Book_Seller\project\BookStore.DAL\bin\Debug\netcoreapp3.1\BookStore.Interface.pdb
+C:\Book_Seller\project\BookStore.DAL\bin\Debug\netcoreapp3.1\BookStore.Models.pdb

@@ -1,0 +1,12 @@
+C:\Book_Seller\project\BookStore.EFModels\bin\Debug\netcoreapp3.1\BookStore.EFModels.deps.json
+C:\Book_Seller\project\BookStore.EFModels\bin\Debug\netcoreapp3.1\BookStore.EFModels.dll
+C:\Book_Seller\project\BookStore.EFModels\obj\Debug\netcoreapp3.1\BookStore.EFModels.csprojAssemblyReference.cache
+C:\Book_Seller\project\BookStore.EFModels\obj\Debug\netcoreapp3.1\BookStore.EFModels.AssemblyInfoInputs.cache
+C:\Book_Seller\project\BookStore.EFModels\obj\Debug\netcoreapp3.1\BookStore.EFModels.AssemblyInfo.cs
+C:\Book_Seller\project\BookStore.EFModels\bin\Debug\netcoreapp3.1\BookStore.EFModels.runtimeconfig.json
+C:\Book_Seller\project\BookStore.EFModels\bin\Debug\netcoreapp3.1\BookStore.EFModels.runtimeconfig.dev.json
+C:\Book_Seller\project\BookStore.EFModels\obj\Debug\netcoreapp3.1\BookStore.EFModels.genruntimeconfig.cache
+C:\Book_Seller\project\BookStore.EFModels\bin\Debug\netcoreapp3.1\BookStore.EFModels.pdb
+C:\Book_Seller\project\BookStore.EFModels\obj\Debug\netcoreapp3.1\BookStore.EFModels.csproj.CoreCompileInputs.cache
+C:\Book_Seller\project\BookStore.EFModels\obj\Debug\netcoreapp3.1\BookStore.EFModels.dll
+C:\Book_Seller\project\BookStore.EFModels\obj\Debug\netcoreapp3.1\BookStore.EFModels.pdb
